@@ -23,7 +23,7 @@ _____
 
 ## Onboarding prototype
 
-_Screenshots or a shareable link to the flow that gets users to the Aha faster._
+_FinWise Onboarding screenshots and a shareable link to the flow that gets users to the Aha faster._ [FinWise Onboarding Flow on Lovable](https://aha-quickstart.lovable.app)
 <figure>
 <img width="165" height="359" alt="image" src="https://github.com/user-attachments/assets/abb0aa28-9d10-4dad-9509-1647ac96f2f3" />
 <figcaption>Figure 1: FinWise Orientation Step 1.</figcaption>
