@@ -4,8 +4,6 @@
 
 ## Aha moment
 
-_The exact moment FinWise becomes "my money, finally clear."_
-
 _The user views a forecast or runway estimate built from their own imported financial data and recognizes the number as true for their business, not a generic example._
 
 **1. Name the moment**
@@ -48,8 +46,7 @@ _FinWise Onboarding screenshots and a shareable link to the flow that gets users
 
 ## Why this activates
 
-_The activation logic: what changes, and why it converts trial users._
-_**What changes:** Before the Aha moment, the user has an account and a generic promise ("this software helps manage your finances"). After it, the user has a specific, personalized fact about their own business, generated without any manual work on their part beyond connecting a data source. The shift is from evaluating a claim to possessing a piece of information — the forecast or runway number becomes something they now know that they didn't know before opening the trial.
+**What changes:** Before the Aha moment, the user has an account and a generic promise ("this software helps manage your finances"). After it, the user has a specific, personalized fact about their own business, generated without any manual work on their part beyond connecting a data source. The shift is from evaluating a claim to possessing a piece of information — the forecast or runway number becomes something they now know that they didn't know before opening the trial.
 
 **Why that plausibly converts trial users:**
 
