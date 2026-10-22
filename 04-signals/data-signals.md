@@ -6,20 +6,12 @@
 ## The data pattern
 
 A. Plot 1: Financial Modeling Usage % vs. Trial-to-Paid Conversion Rate
-
 ```mermaid
-quadrantChart
-    title "Financial Modeling Usage % vs. Trial-to-Paid Conversion"
-    x-axis "Low Modeling Usage (10%)" --> "High Modeling Usage (58%)"
-    y-axis "Low Conversion Rate" --> "High Conversion Rate (~2% Ceiling)"
-    quadrant-1 "Growth Zone"
-    quadrant-2 "High Conv / Low Usage"
-    quadrant-3 "Low Conv / Low Usage"
-    quadrant-4 "High Feature Usage / Flat Conversion (FinWise Reality)"
-    "Nov 2023 (Trough - 10.8%)": [0.11, 0.50]
-    "Apr 2024 (Peak - 58.3%)": [0.58, 0.51]
-    "Sep 2024 (Peak - 58.1%)": [0.58, 0.52]
-    "Average Monthly Cohorts": [0.37, 0.50]
+xychart-beta
+    title "Financial Modeling Feature Usage % vs. Trial-to-Paid Rate (13 Months)"
+    x-axis ["2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10"]
+    y-axis "Financial Modeling Feature Usage (%)" 0 --> 70
+    line [31.17, 10.78, 18.26, 24.81, 23.80, 40.35, 58.26, 39.34, 36.98, 47.37, 52.23, 58.06, 36.04]
 ```
 
 The Pattern: Extreme volatility in modeling usage (swinging wildly between 10.8% and 58.3%) contrasted against an unmoving, flat line for trial-to-paid conversion (locked tightly at ~1.9%–2.1%).
@@ -27,20 +19,12 @@ The Pattern: Extreme volatility in modeling usage (swinging wildly between 10.8%
 The Revelation: Engagement does not automatically equal monetization. Months where user adoption of forward-looking modeling spiked by nearly 5x yielded zero meaningful increase in paid conversions. This proves that users are experiencing the product’s core functionality during the trial, but the transition from using the tool to paying for the tool is broken.
 
 B. Plot 2: Get Started Import Feature Usage % vs. Trial-to-Paid Conversion Rate
-
 ```mermaid
-quadrantChart
-    title "Get Started Import Usage % vs. Trial-to-Paid Conversion"
-    x-axis "Low Import Usage (30%)" --> "High Import Usage (45%)"
-    y-axis "Low Conversion Rate" --> "High Conversion Rate (~2% Ceiling)"
-    quadrant-1 "Growth Zone"
-    quadrant-2 "High Conv / Low Usage"
-    quadrant-3 "Low Conv / Low Usage"
-    quadrant-4 "High Import Setup / Flat Conversion (Prerequisite Only)"
-    "Jan 2024 (Trough - 30.6%)": [0.31, 0.50]
-    "Jul 2024 (Peak - 45.4%)": [0.45, 0.50]
-    "Sep 2024 (Peak - 45.2%)": [0.45, 0.52]
-    "Average Monthly Cohorts": [0.39, 0.50]
+xychart-beta
+    title "Get Started Import Feature Usage % vs. Trial-to-Paid Rate (13 Months)"
+    x-axis ["2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10"]
+    y-axis "Get Started Import Feature Usage (%)" 0 --> 60
+    line [40.17, 36.29, 42.73, 30.63, 32.16, 30.51, 38.55, 40.45, 39.88, 45.42, 41.23, 45.22, 44.26]
 ```
 
 The Pattern: Import usage holds a relatively stable baseline band (30.5%–45.4%), while correlation with paid conversion is non-existent (-0.050).
