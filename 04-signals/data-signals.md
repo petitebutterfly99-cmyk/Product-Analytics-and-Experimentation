@@ -6,26 +6,14 @@
 ## The data pattern
 
 A. Plot 1: Financial Modeling Usage % vs. Trial-to-Paid Conversion Rate
-```mermaid
-xychart-beta
-    title "Financial Modeling Feature Usage % vs. Trial-to-Paid Rate (13 Months)"
-    x-axis ["2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10"]
-    y-axis "Financial Modeling Feature Usage (%)" 0 --> 70
-    line [31.17, 10.78, 18.26, 24.81, 23.80, 40.35, 58.26, 39.34, 36.98, 47.37, 52.23, 58.06, 36.04]
-```
+<img width="3000" height="1500" alt="image" src="https://github.com/user-attachments/assets/b66b6355-fa21-41b6-8eb9-301765b7e482" />
 
 The Pattern: Extreme volatility in modeling usage (swinging wildly between 10.8% and 58.3%) contrasted against an unmoving, flat line for trial-to-paid conversion (locked tightly at ~1.9%–2.1%).
 
 The Revelation: Engagement does not automatically equal monetization. Months where user adoption of forward-looking modeling spiked by nearly 5x yielded zero meaningful increase in paid conversions. This proves that users are experiencing the product’s core functionality during the trial, but the transition from using the tool to paying for the tool is broken.
 
 B. Plot 2: Get Started Import Feature Usage % vs. Trial-to-Paid Conversion Rate
-```mermaid
-xychart-beta
-    title "Get Started Import Feature Usage % vs. Trial-to-Paid Rate (13 Months)"
-    x-axis ["2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10"]
-    y-axis "Get Started Import Feature Usage (%)" 0 --> 60
-    line [40.17, 36.29, 42.73, 30.63, 32.16, 30.51, 38.55, 40.45, 39.88, 45.42, 41.23, 45.22, 44.26]
-```
+<img width="3000" height="1500" alt="image" src="https://github.com/user-attachments/assets/bafc0db4-4e64-4d71-b1a7-cde319570baa" />
 
 The Pattern: Import usage holds a relatively stable baseline band (30.5%–45.4%), while correlation with paid conversion is non-existent (-0.050).
 
